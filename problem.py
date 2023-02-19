@@ -13,3 +13,5 @@ if float(user_input) > 50:
     print("Wow that is a lot of money")
 
 print(dollars_result)
+
+##It also says TypeError: unsupported operand type(s) for /: 'str' and 'float'
